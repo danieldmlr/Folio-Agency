@@ -1,0 +1,8 @@
+@import '../abstract/variables';
+@import '../components/_media-queries';
+
+html {
+    width: 1440px;
+    background: #FFFFFF;
+    font-family: $font;
+}
